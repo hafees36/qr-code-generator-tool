@@ -59,4 +59,4 @@ QR_Code_Generator/
 
 B.Tech in Artificial Intelligence & Data Science
 
-**Just try out my project**
+**Just try out my project:**https://qr-code-generator-tool.onrender.com
